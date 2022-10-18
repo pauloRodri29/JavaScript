@@ -1,2 +1,2 @@
 # JavaScript
-Clonação e criação de sites
+Pequenos projetos de desenvolvimento e clonação de sites!!
